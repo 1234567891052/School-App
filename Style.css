@@ -1,0 +1,15 @@
+h1{
+    color: aquamarine;
+
+}
+
+*{
+    border: aliceblue;
+}
+
+.links{
+    background-color: transparent;
+    display: flex; 
+    justify-content: space-between;
+    border: aliceblue;
+}
